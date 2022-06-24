@@ -16,7 +16,7 @@ export default function SignIn(){
                     <Text style={styles.buttonText}>Acessar</Text>
                 </TouchableOpacity>
                 <TouchableOpacity style={styles.buttonRegister}>
-                    <Text style={styles.registerText}>Não possu uma conta? Cadastre-se</Text>
+                    <Text style={styles.registerText}>Não possui uma conta? Cadastre-se</Text>
                 </TouchableOpacity>
             </Animatable.View>
         </View>
